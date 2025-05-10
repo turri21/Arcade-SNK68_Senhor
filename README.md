@@ -1,4 +1,8 @@
+-=(SNK68_Senhor notes)=-
 
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # SNK M68000 (Ikari III) FPGA Implementation
 
 FPGA compatible core of SNK M68000 (Ikari III based) arcade hardware for [**MiSTerFPGA**](https://github.com/MiSTer-devel/Main_MiSTer/wiki) written by [**Darren Olafson**](https://twitter.com/Darren__O). FPGA implementation has been verified against schematics for Ikari III (A7007). PCB measurements taken from Datsugoku: Prisoners of War (A7008), Street Smart (A8007), and Ikari III: The Rescue (A7007).
